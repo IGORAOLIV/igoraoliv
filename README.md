@@ -1,6 +1,7 @@
 # Igor Almeida
 
-Profissional em transição de carreira, apaixonado por tecnologia e cultura pop, buscando combinar criatividade e habilidades analíticas no mundo do desenvolvimento web.
+Seeking a career in web development where I can use my creativity and analytical skills to build innovative and user-friendly websites.
+Passionate about technology and pop culture, I am a career changer with a strong creative and analytical skillset who is eager to make a mark in the web development field.
 
 ## 💻 Redes Sociais
 
