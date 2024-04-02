@@ -30,9 +30,11 @@ Passionate about technology and pop culture, I am a career changer with a strong
 
 ## 🦾 Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=desafio01-html-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/desafio01-html-dio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=trilha-html-modulo-2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/trilha-html-modulo-2)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=primeiro_app_angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/primeiro_app_angular)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=todo_list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/todo_list)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=translation_flutter_app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/translation_flutter_app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=js-developer-portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/js-developer-portfolio)
+
 
 
 
