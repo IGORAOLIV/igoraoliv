@@ -1,39 +1,56 @@
-# Igor Almeida
+# Olá, eu sou Igor Almeida! 👋
 
-Seeking a career in web development where I can use my creativity and analytical skills to build innovative and user-friendly websites.
-Passionate about technology and pop culture, I am a career changer with a strong creative and analytical skillset who is eager to make a mark in the web development field.
+### Analista de Requisitos | Engenharia de Software | QA
 
-## 💻 Redes Sociais
+Sou um profissional em transição de carreira, unindo **15 anos de experiência em gestão de operações** com a formação técnica em **Análise e Desenvolvimento de Sistemas (UNIFACS)**. Meu foco principal é a ponte entre as necessidades de negócio e a excelência técnica, especializando-me em **Engenharia de Requisitos** e **Garantia de Qualidade (QA)**.
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igoralive/)
-- [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/igralive#4182/)
+---
 
-## 📜 Formações
+## 🚀 Sobre Mim
 
-- Gastronomia (2010) [Universidade Ruy Barbosa](https://www.wyden.com.br/unidades/uniruy)
-- Analise e |Desenvolvimento de Software (Cursando) [UNIFACS](https://lp.unifacs.br/unf-formas-de-entrada/?gad=1&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVglCZISBQYBaDrz8cIl9FraPLSxMPC45n1Gt8Rscr7gw9CdtTAt2fcaAngxEALw_wcB)
+- 🎓 **Graduado em ADS** pela UNIFACS (2026).
+- 📜 **Especializações pela UFBA:** Gerência de Requisitos, Teste de Software, Agilidade e Gerência de Configuração.
+- 🧠 **Background:** 15 anos liderando equipes e processos complexos, o que me confere uma visão sistêmica apurada para identificar riscos e oportunidades em projetos de software.
+- 🕹️ **Interesses:** Além de tecnologia, sou criador de conteúdo gamer na Twitch, entusiasta de hardware e fã de RPGs.
 
-## 💡 Habilidades
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)](https://docs.github.com/)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=379ad6)
+## 🛠️ Toolbox (Habilidades Técnicas)
 
+### **Análise & Qualidade**
+![UML](https://img.shields.io/badge/UML-000?style=for-the-badge&logo=unifiedmodelinglanguage&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-000?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Testing](https://img.shields.io/badge/Software_Testing-000?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Requirements Engineering](https://img.shields.io/badge/Requirements_Engineering-000?style=for-the-badge&logo=expertsexchange&logoColor=white)
 
-## 😺 GitHub Stats
+### **Desenvolvimento**
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IGORAOLIV&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IGORAOLIV&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-## 🦾 Projetos
+## 📈 Estatísticas
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=primeiro_app_angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/primeiro_app_angular)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=todo_list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/todo_list)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=translation_flutter_app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/translation_flutter_app)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IGORAOLIV&repo=js-developer-portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IGORAOLIV/js-developer-portfolio)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IGORAOLIV&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IGORAOLIV&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
+em construção 
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igoralive/)
+[![Twitch](https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/igoralive)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/users/igoralive#4182)
 
 
 
